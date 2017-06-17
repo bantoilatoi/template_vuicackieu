@@ -1,0 +1,38 @@
+/*sprite*/
+[class*="icon16"]{
+	width:16px;
+	height:16px;
+	display:inline-block;
+	vertical-align:top;
+}
+[class*="icon24"]{
+	width:24px;
+	height:24px;
+	display:inline-block;
+	vertical-align:top;
+}
+[class*="icon32"]{
+	width:32px;
+	height:32px;
+	display:inline-block;
+	vertical-align:top;
+}
+[class*="icon42"]{
+  width:42px;
+  height:42px;
+  display:inline-block;
+  vertical-align:top;
+}
+.icon16-arow-right{
+  background: url("../img/icons/icon-arow-right.png") no-repeat;
+}
+.icon32-phone{
+  background: url("../img/icons/icon32-phone.png") no-repeat;
+}
+.icon32-email{
+  background: url("../img/icons/icon32-email.png") no-repeat;
+}
+.icon42-zoom-plus{
+  background: url("../img/icons/icon42-zoom-plus.png") no-repeat;
+}
+/*end sprite*/

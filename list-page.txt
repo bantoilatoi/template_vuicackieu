@@ -1,0 +1,8 @@
+http://vuicackieu.com/hai/furniture/index.html
+http://vuicackieu.com/hai/furniture/product.html
+http://vuicackieu.com/hai/furniture/product-list.html
+http://vuicackieu.com/hai/furniture/product-detail.html
+http://vuicackieu.com/hai/furniture/news.html
+http://vuicackieu.com/hai/furniture/news-detail.html
+http://vuicackieu.com/hai/furniture/plan.html
+http://vuicackieu.com/hai/furniture/contact.html
